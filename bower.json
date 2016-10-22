@@ -39,7 +39,7 @@
     "paper-styles": "PolymerElements/paper-styles#^1.0.0",
     "neon-animation": "PolymerElements/neon-animation#^1.0.0",
     "paper-more-button": "Collaborne/paper-more-button#^1.0.0",
-    "paper-date-picker": "bendavis78/polymer-paper-date-picker#^1.2.0"
+    "paper-date-picker": "bendavis78/paper-date-picker#^1.2.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
